@@ -1,0 +1,128 @@
+
+body {
+    background-color: #101218;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.first {
+    display: flex;
+    gap: 15px;
+    padding-left: 8px;
+    font-size: small;
+    padding-top: 10px;
+}
+
+.second {
+    display: flex;
+    justify-content: end;
+    gap: 10px;
+    font-size: small;
+    align-self: start;
+    margin-top: -15px;
+
+}
+
+.button-1 {
+    margin: -7px;
+    margin-top: -10px;
+    padding-right: 24px;
+}
+
+.inside {
+    background-color: var(--gm3-sys-color-secondary-fixed, #c2e7ff);
+    color: var(--gm3-sys-color-on-secondary-fixed, #001d35);
+    border-radius: 30px;
+    padding: 10px;
+    width: 85px;
+    font-size: small;
+    font-weight: 600;
+    padding-top: 7px;
+    border: 2px solid;
+}
+
+.heading {
+    display: flex;
+    justify-self: center;
+    align-self: center;
+    padding-top: 81px;
+}
+
+.third {
+    display: flex;
+    justify-self: center;
+
+}
+
+.form {
+    width: 500px;
+    height: 30px;
+    border-radius: 20px;
+    background-color: #3f424a;
+    border: 2px solid #101218;
+    color: #ffffff;
+}
+
+.button-2 {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    gap: 20px;
+}
+
+.in {
+    background-color: #3f424a;
+    color: #ffffff;
+    padding: 10px;
+    border: 1px solid #101218;
+    border-radius: 5px;
+}
+
+.language {
+    justify-items: center;
+    font-size: small;
+}
+
+.link {
+    text-decoration: none;
+    padding: 7px;
+    color: #7eaaff;
+}
+
+.India {
+    background-color: #292c32;
+    color: #ffffff;
+    padding: 10px;
+}
+.into{
+    list-style-type: none;
+}
+.list-2{
+     display: flex;
+     gap: 15px;
+     justify-self: start;
+     padding-left: 20px;
+}
+.list-3{
+    display: flex;
+    gap: 15px;
+    justify-self: end;
+    margin-top: -34px;
+    padding-right: 20px;
+}
+.into-2{
+    list-style-type: none;
+}
+.full{
+    background-color: #2a2d32;
+    padding: 5px;
+}
+.none{
+    border: 1px solid rgb(57, 57, 57);
+}
+footer{
+    padding-top: 189px;
+   
+}
