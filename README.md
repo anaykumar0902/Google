@@ -1,1 +1,1 @@
-# This ia a clone of the google home page
+# This is a clone of the google home page
